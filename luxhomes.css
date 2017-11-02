@@ -8,7 +8,9 @@ nav{
 	padding-left:0px;
 }
 
-
+h1{
+	padding: 10px;
+}
 
 ul, li{
 	display: inline;
@@ -35,4 +37,13 @@ p{
 	font-size: 9pt;
 	margin-left: 300px;
 	display: inline;
+}
+
+.jpg{
+	width: 100%;
+	padding: 30px;
+}
+
+.img-caption{
+	padding-left: 7%;
 }
