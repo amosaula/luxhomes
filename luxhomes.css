@@ -1,0 +1,16 @@
+
+nav{
+	padding: 30px;
+	background-color: black;
+	color: white;
+	width: 100%;
+	margin-left:0px;
+	padding-left:0px;
+}
+
+
+
+ul, li{
+	display: inline;
+	text-decoration: none;
+}
