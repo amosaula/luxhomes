@@ -20,3 +20,9 @@ content{
 	margin-top: 150px;
 }
 
+.col-md-6{
+	height: 100px;
+	background: lightblue;
+	border: 2px dotted lightgray;
+	margin: 20px;
+}
