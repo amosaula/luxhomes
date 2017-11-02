@@ -20,9 +20,19 @@ content{
 	margin-top: 150px;
 }
 
-.col-md-6{
-	height: 100px;
-	background: lightblue;
-	border: 2px dotted lightgray;
-	margin: 20px;
+table{
+	padding: 0px;
+}
+
+td{
+	text-align: left;
+	padding: 0px;
+
+}
+
+p{
+	font-style: italic;
+	font-size: 9pt;
+	margin-left: 300px;
+	display: inline;
 }
